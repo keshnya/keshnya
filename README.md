@@ -68,8 +68,6 @@ I'm involved in architectural decisions, task planning, and requirements decompo
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshnya&show_icons=true&theme=dark&hide_border=true)](https://github.com/keshnya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshnya&layout=compact&theme=dark&hide_border=true)](https://github.com/keshnya)
-
 ---
 
 ### 🔗 Connect
